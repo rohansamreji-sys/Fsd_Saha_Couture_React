@@ -1,0 +1,48 @@
+{
+  "styleProfiles": [
+    {
+      "id": "saha-101",
+      "customerName": "Ananya Sharma",
+      "contactPhone": "+91 98450 12345",
+      "category": "Women",
+      "occasion": "Festive",
+      "budget": 4500,
+      "preferredStyle": "Traditional",
+      "preferences": "Raw silk saree with copper gold zari borders, jewel neck blouse with elbow-length sleeves in bottle green.",
+      "createdAt": "2026-11-08T10:30:00.000Z"
+    },
+    {
+      "id": "saha-102",
+      "customerName": "Meera Krishnan",
+      "contactPhone": "+91 97312 88491",
+      "category": "Women",
+      "occasion": "Everyday",
+      "budget": 2200,
+      "preferredStyle": "Minimal",
+      "preferences": "Breathable handloom cotton kurtis with pockets, pastel earthy tones like terracotta and sage green.",
+      "createdAt": "2026-11-09T14:15:00.000Z"
+    },
+    {
+      "id": "saha-103",
+      "customerName": "Rohan & Priya",
+      "contactPhone": "+91 99644 47242",
+      "category": "Kids",
+      "occasion": "Wedding",
+      "budget": 3200,
+      "preferredStyle": "Fusion",
+      "preferences": "Comfortable festive dhoti kurta set for 5-year-old boy, soft cotton lining inside so fabric does not itch.",
+      "createdAt": "2026-11-09T16:45:00.000Z"
+    },
+    {
+      "id": "saha-104",
+      "customerName": "Sunita Rao",
+      "contactPhone": "+91 98860 33120",
+      "category": "Women",
+      "occasion": "Party",
+      "budget": 5800,
+      "preferredStyle": "Contemporary",
+      "preferences": "Indo-western cape jacket with flared palazzo pants, delicate cutdana work on collar.",
+      "createdAt": "2026-11-10T09:20:00.000Z"
+    }
+  ]
+}
